@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local project workflow files; publish only the generated site.
+AGENTS.md
+build.py
+doc/
+jb_handoff/
+tools/
